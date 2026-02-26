@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://gitrama.ai/assets/logo.svg" alt="Gitrama" width="80" />
-
 # Gitrama
 
 **AI-powered Git intelligence from your terminal.**
@@ -121,9 +119,6 @@ curl -fsSL https://gitrama.ai/install.sh | sh
 | **Pro** | $9/mo | Full history, deep analysis, session sharing, priority support |
 | **Enterprise** | Contact us | Team dashboards, SSO, on-premise, custom models |
 
-## Built By
-
-Gitrama is built by [Alfonso Harding](https://linkedin.com/in/alfonsoharding) — 20 years in software engineering, from startups to Fortune 500. Gitrama is his first solo product, built to solve the problems he saw every day across decades of shipping code.
 
 ## Links
 
